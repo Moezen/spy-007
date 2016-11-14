@@ -1,2 +1,2 @@
-robot_id = "ed7361a2-a9cc-11e6-80f5-76304dec7eb7"
-commander_id = "2c595084-2dfe-45f4-bb8d-639a3354a470"
+robot_id = "AD0163B7-5BA8-4AD7-ABC0-863632EFE83D"
+commander_id = "6EA0006F-0425-4CB2-934B-0ED1998AD59E"
